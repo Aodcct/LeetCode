@@ -19,10 +19,10 @@ LeetCode Problems
 | 14 | [ Longest Common Prefix ]( https://leetcode.com/problems/longest-common-prefix/ ) |  | Easy |
 | 15 | [ 3Sum ]( https://leetcode.com/problems/3sum/ ) |  | Medium |
 | 16 | [ 3Sum Closest ]( https://leetcode.com/problems/3sum-closest/ ) |  | Medium |
-| 17 | [ Letter Combinations of a Phone Number ]( https://leetcode.com/problems/letter-combinations-of-a-phone-number/ ) | [C++](https://github.com/Aodcct/LeetCode/blob/master/Solutions/17-letter-combinations-of-a-phone-number/src.cpp) | Medium |
+| 17 | [ Letter Combinations of a Phone Number ]( https://leetcode.com/problems/letter-combinations-of-a-phone-number/ ) | [C++]( https://github.com/Aodcct/LeetCode/blob/master/Solutions/17-letter-combinations-of-a-phone-number/src.cpp/ ) | Medium |
 | 18 | [ 4Sum ]( https://leetcode.com/problems/4sum/ ) |  | Medium |
-| 19 | [ Remove Nth Node From End of List ]( https://leetcode.com/problems/remove-nth-node-from-end-of-list/ ) | [C++](https://github.com/Aodcct/LeetCode/blob/master/Solutions/19-remove-nth-node-from-end-of-list/src.cpp) | Medium |
-| 20 | [ Valid Parentheses ]( https://leetcode.com/problems/valid-parentheses/ ) | [Python](https://github.com/Aodcct/LeetCode/blob/master/Solution/20-valid-parentheses/src.py) | Easy |
+| 19 | [ Remove Nth Node From End of List ]( https://leetcode.com/problems/remove-nth-node-from-end-of-list/ ) | [C++]( https://github.com/Aodcct/LeetCode/blob/master/Solutions/19-remove-nth-node-from-end-of-list/src.cpp/ ) | Medium |
+| 20 | [ Valid Parentheses ]( https://leetcode.com/problems/valid-parentheses/ ) | [Python]( https://github.com/Aodcct/LeetCode/blob/master/Solution/20-valid-parentheses/src.py/ ) | Easy |
 | 21 | [ Merge Two Sorted Lists ]( https://leetcode.com/problems/merge-two-sorted-lists/ ) |  | Easy |
 | 22 | [ Generate Parentheses ]( https://leetcode.com/problems/generate-parentheses/ ) |  | Medium |
 | 23 | [ Merge k Sorted Lists ]( https://leetcode.com/problems/merge-k-sorted-lists/ ) |  | Hard |
@@ -80,7 +80,7 @@ LeetCode Problems
 | 75 | [ Sort Colors ]( https://leetcode.com/problems/sort-colors/ ) |  | Medium |
 | 76 | [ Minimum Window Substring ]( https://leetcode.com/problems/minimum-window-substring/ ) |  | Hard |
 | 77 | [ Combinations ]( https://leetcode.com/problems/combinations/ ) |  | Medium |
-| 78 | [ Subsets ]( https://leetcode.com/problems/subsets/ ) | [Python](https://github.com/Aodcct/LeetCode/blob/master/Solution/78-subsets/src.py) | Medium |
+| 78 | [ Subsets ]( https://leetcode.com/problems/subsets/ ) | [Python]( https://github.com/Aodcct/LeetCode/blob/master/Solution/78-subsets/src.py/ ) | Medium |
 | 79 | [ Word Search ]( https://leetcode.com/problems/word-search/ ) |  | Medium |
 | 80 | [ Remove Duplicates from Sorted Array II ]( https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/ ) |  | Medium |
 | 81 | [ Search in Rotated Sorted Array II ]( https://leetcode.com/problems/search-in-rotated-sorted-array-ii/ ) |  | Medium |
